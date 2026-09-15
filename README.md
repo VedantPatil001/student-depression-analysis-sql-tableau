@@ -6,7 +6,7 @@
 
 ##  Dashboard Preview
 
-> Replace this with your exported dashboard image.
+
 
 ![Dashboard](screenshots/dashboard.png)
 
